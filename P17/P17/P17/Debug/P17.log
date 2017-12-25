@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\c_code\hw7\p17\source\main.cpp(9): warning C4566: 由通用字元名稱 '\u202A' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\c_code\hw7\p17\source\main.cpp(9): warning C4129: 'C': 無法辨識的字元逸出序列
+d:\c_code\hw7\p17\source\main.cpp(9): warning C4129: 'H': 無法辨識的字元逸出序列
+d:\c_code\hw7\p17\source\main.cpp(9): warning C4129: 'P': 無法辨識的字元逸出序列
+d:\c_code\hw7\p17\source\main.cpp(9): warning C4129: 's': 無法辨識的字元逸出序列
+d:\c_code\hw7\p17\source\main.cpp(9): warning C4129: 'o': 無法辨識的字元逸出序列
+d:\c_code\hw7\p17\source\main.cpp(9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+  P17.vcxproj -> D:\C_code\HW7\P17\P17\Debug\P17.exe
+  P17.vcxproj -> D:\C_code\HW7\P17\P17\Debug\P17.pdb (Partial PDB)
